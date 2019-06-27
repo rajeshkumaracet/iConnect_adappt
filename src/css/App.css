@@ -1,0 +1,36 @@
+#navbarNavDropdown ul li {
+  padding-right: 30px;
+}
+
+.navbar-brand {
+  font-family: "Courgette", cursive;
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.footer {
+  /* padding: 30px;
+
+  height: 30px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  margin-top: 20px; */
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  color: white;
+  padding: 1rem;
+  background-color: #0c0c0c;
+  text-align: center;
+  opacity: 0.8;
+}
+
+Modal {
+  width: 900px;
+  height: 900px;
+}

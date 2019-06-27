@@ -1,0 +1,101 @@
+[
+  {
+    "jobTitle": "Full Stack Developer",
+    "company": "Amd Inc",
+    "description": "A full Stack Engineer sound knowledge in full Stack! (MEAN, MEARN)",
+    "name": "Rajeshkumar",
+    "gender": "Male",
+    "imgSrc": "https://tinyfac.es/data/avatars/475605E3-69C5-4D2B-8727-61B7BB8C4699-500w.jpeg",
+    "email": "rajeshkumar@gmail.com",
+    "city": "Pondicherry",
+    "phone": "7894236541"
+  },
+  {
+    "jobTitle": "Front Developer",
+    "company": "Google",
+    "description": "A frontend engineers sound Kkowledge in Html,css, Javascript!",
+    "name": "Harisudan",
+    "imgSrc": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxODQwNTgxN15BMl5BanBnXkFtZTcwMjk2OTY1Ng@@._V1_UY256_CR7,0,172,256_AL_.jpg",
+    "gender": "Male",
+    "email": "juliya@gmail.com",
+    "city": "Pondicherry",
+    "phone": "7894568789"
+  },
+  {
+    "jobTitle": "UI Developer",
+    "company": "Yahoo",
+    "description": "A frontend engineers sound knowledge in Adobe XD, Illustrator e.t.c",
+    "name": "Suryakumar",
+    "imgSrc": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?h=350&auto=compress&cs=tinysrgb",
+    "gender": "Male",
+    "email": "surya@gmail.com",
+    "city": "Pondicherry",
+    "phone": "7894568789"
+  },
+  {
+    "jobTitle": "ML Engineer",
+    "description": "A Machine Learning, worked in automatic speech synthesis techonolgy & AI chatBot.",
+    "company": "MicroSoft",
+    "name": "AnuPriya",
+    "imgSrc": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjUzZTJmZDItODRjYS00ZGRhLTg2NWQtOGE0YjJhNWVlMjNjXkEyXkFqcGdeQXVyMTg4NDI0NDM@._V1_UY256_CR42,0,172,256_AL_.jpg",
+    "gender": "Female",
+    "email": "anupriya@yahoo.com",
+    "City": "Pondicherry",
+    "phone": "8759864589"
+  },
+  {
+    "jobTitle": "AI Enginner",
+    "description": "Have worked in nerural networks & develop lots of open soucre models.",
+    "company": "Intel Corp",
+    "name": "Ramya",
+    "imgSrc": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=d5849d81af587a09dbcf3f11f6fa122f",
+    "gender": "Female",
+    "email": "ramya@yahoo.com",
+    "City": "Pondicherry",
+    "phone": "7894561258"
+  },
+  {
+    "jobTitle": "System Admin",
+    "description": "Have 10+ years of experience, completed CCNP, Cloud Security e.t.c",
+    "company": "Freshworks",
+    "name": "Prakash",
+    "imgSrc": "https://pbs.twimg.com/profile_images/1008506598531194880/ctHMzN6O.jpg",
+    "gender": "Male",
+    "email": "swathi@yahoo.com",
+    "City": "TamilNadu",
+    "phone": "8759864589"
+  },
+  {
+    "jobTitle": "UX Designer",
+    "description": "A passionate UI designer, worked on lot of open source products.",
+    "company": "TCS",
+    "name": "Swathi",
+    "imgSrc": "https://randomuser.me/api/portraits/women/76.jpg",
+    "gender": "Female",
+    "email": "Swathi@yahoo.com",
+    "City": "Hyderbad",
+    "phone": "8759864589"
+  },
+  {
+    "jobTitle": "Software Trainee",
+    "description": "Have 5 years experience in wallmart Labs & hands on experince server development.",
+    "company": "IBM",
+    "name": "Aditi",
+    "imgSrc": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NjYzMzE1MV5BMl5BanBnXkFtZTgwNTA4NDY4OTE@._V1_UX172_CR0,0,172,256_AL_.jpg",
+    "gender": "Female",
+    "email": "adithi@yahoo.com",
+    "City": "Chennai",
+    "phone": "8759864589"
+  },
+  {
+    "jobTitle": "UI Designer",
+    "description": "Sound knowledge in motion graphics, canva, photshop e.t.c",
+    "company": "Freshworks",
+    "name": "Arun Kumar",
+    "imgSrc": "https://pbs.twimg.com/profile_images/974736784906248192/gPZwCbdS.jpg",
+    "gender": "Female",
+    "email": "arun007@yahoo.com",
+    "City": "Bangalore",
+    "phone": "8759864589"
+  }
+]
